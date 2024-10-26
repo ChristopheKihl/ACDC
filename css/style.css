@@ -3,6 +3,10 @@
 }
 
 #groupMembers {
-    max-height: 280px !important;
+    max-height: 280px;
     min-width: 300px;
+}
+
+.card {
+    box-shadow: 15px 10px 10px black;
 }
